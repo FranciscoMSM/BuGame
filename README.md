@@ -1,6 +1,6 @@
 ## BuGame ##
 
-![Alt text](http://imagizer.imageshack.us/v2/800x600q90/856/q7uj.jpg )
+![Alt text](https://imagizer.imageshack.us/v2/500x377q90/835/dk42.png )
 
 About
 -----
