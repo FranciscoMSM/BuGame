@@ -1,6 +1,6 @@
-## BuGame
+## BuGame ##
 
-[id]: http://imagizer.imageshack.us/v2/800x600q90/89/aokr.png "Title"
+[id]: http://imagizer.imageshack.us/v2/800x600q90/89/aokr.png
 
 About
 -----
