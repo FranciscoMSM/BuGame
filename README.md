@@ -14,4 +14,4 @@ Red player key's: right/left arrow key's
 
 Technology
 ----------
-To run this game you need to have Lua installed and download de Love 0.8.0 version at least!
+To run this game you need to have Lua installed and download the Love 0.8.0 version at least!
