@@ -134,8 +134,8 @@ function love.draw()
 	love.graphics.print("Score: " .. score.azul, 720, 570)
 
 	love.graphics.setColor(255, 255, 255)
-	love.graphics.print("Key A <-- and --> Key D", 10, 10)
-	love.graphics.print("Left <-- and --> Right", 10, 570)
+	love.graphics.print("Key A <-- and --> Key D", 10, 570)
+	love.graphics.print("Left <-- and --> Right", 10, 10)
 
 	if score.azul == 5 then
 		love.graphics.setColor(0, 0, 255)
