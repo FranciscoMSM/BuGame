@@ -9,6 +9,7 @@ BuGame it's a simple multiplayer game made just to try this awesome Framework.
 How to play
 -----------
 Blue player key's: "a" and "d"
+<p> </p>
 Red player key's: right/left arrow key's
 
 Technology
